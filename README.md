@@ -9,7 +9,6 @@ Arsenic (As), Manganese (Mn) and Lead (Pb), and variablesfor pregnancy intake fo
 nutrient groups ( _macronutrient_ , _mineral_ , _vitamin A_ , _vitamin B_ and _the other vitamins)_. Please see
 Section 2 of the manuscript for details.
 
-A
 
 **Availability (Mandatory)**
 The Principal Investigators of Bangladesh ReproductiveCohort Study (Project Jeebon), who are
